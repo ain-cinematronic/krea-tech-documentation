@@ -10,9 +10,6 @@ Welcome to the comprehensive documentation for KreaTech, a learning platform bui
 
 - **[Development Guide](./development.md)**  
   Complete development environment setup, commands, troubleshooting, and workflows
-  
-- **[Project Structure](./project-structure.md)**  
-  Technologies used, file organization, component architecture, and coding patterns
 
 ### Data & Content Management
 
@@ -34,9 +31,6 @@ Welcome to the comprehensive documentation for KreaTech, a learning platform bui
 
 - **[Cookie Consent Implementation](./cookie-consent.md)**  
   Cookie banner + optional analytics category logic and GA integration
-
-- **[Notes](./notes.md)**  
-  Miscellaneous technical notes, change summaries, and reminders
 
 ---
 
