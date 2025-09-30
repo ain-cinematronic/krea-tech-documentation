@@ -498,6 +498,8 @@ The platform supports anonymous, per-device course ratings using a signed identi
 - The banner retrieves the user’s prior rating via `ratings/me`.
 - Aggregated results (average + count) are fetched via `course-ratings`.
 
+```bash
+
 src/
 ├── app/                     # Next.js app router
 │   ├── _api/               # Data fetching utilities
@@ -511,3 +513,4 @@ src/
 │   ├── access/            # Access control
 │   └── admin/             # Admin customizations
 └── @types/                # TypeScript definitions
+```
