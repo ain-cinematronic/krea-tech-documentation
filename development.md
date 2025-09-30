@@ -13,8 +13,6 @@ This document covers everything you need to know about developing with KreaTech,
 7. [Performance Optimization](#performance-optimization)
 8. [Advanced Topics](#advanced-topics)
 9. [Ratings System](#ratings-system)
-10. [Logger & Diagnostics](#logger--diagnostics)
-11. [Database Backup & Restore](#database-backup--restore)
 
 ---
 
